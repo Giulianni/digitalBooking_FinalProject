@@ -1,7 +1,7 @@
 # digitalBooking_FinalProject
 Final team project on the Certified Tech Developer career by Digital House. 
 
-# ![]()![logo_1](uploads/ef0c988b240cd2b2020de922913f18f3/logo_1.png)   [Digital Booking](http://digitalbooking.one), _sentite como en tu hogar_
+# ![]()![logo_1](https://drive.google.com/file/d/1C99Ju50D467YZQXnG6VfpJpu5lyauOly/view?usp=sharing)   [Digital Booking](http://digitalbooking.one), _sentite como en tu hogar_
 
 *Digital Booking es una empresa de alquiler de casas, departamentos, habitaciones privadas y alojamientos en general, para toda persona que desee viajar y sentirse como en su hogar*. En busca de un despegue comercial de impacto, la empresa se propuso lanzar su página web de reservas online disponible 24/7.
 
