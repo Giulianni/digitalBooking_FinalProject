@@ -274,7 +274,7 @@ Una vez corriendo el proyecto, se puede acceder a la url <http://localhost:8086/
 
 #### Acceso al diagrama de la estructura en "Diagrams.net"
 
-- [Digital Booking AWS](https://drive.google.com/file/d/1AMd0BSfn7QhHJvGE4OY6gNTHNC76uaoh/view?usp=sharing)
+- [Digital Booking AWS](https://drive.google.com/file/d/1o-OgsRSYSK4tl9_tP9dSR905KugvxR2H/view?usp=sharing)
 
 #### Infraestructura explained
 
