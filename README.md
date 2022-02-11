@@ -150,7 +150,7 @@ Para la instalación de Java, Maven, MySQL y Workbench se recomienda la siguient
 
 ```plaintext
 git init
-git remote add origin git@gitlab.com:proyecto-integrador-0321/camada-3/grupo-3.git 
+git remote add origin https://github.com/Giulianni/digitalBooking_FinalProject.git 
 git pull origin main
 ```
 
@@ -174,7 +174,7 @@ USE `DigitalBooking_DB1` ;
 
 ```plaintext
 git init
-git remote add origin git@gitlab.com:proyecto-integrador-0321/camada-3/grupo-3.git 
+git remote add origin https://github.com/Giulianni/digitalBooking_FinalProject.git 
 git pull origin main
 ```
 
@@ -200,8 +200,8 @@ spring.datasource.url=jdbc:mysql://localhost:3306/DigitalBooking_DB1
 - spring.datasource.username && spring.datasource.password --> hace referencia al usuario y contraseña mediante la cual se establece la conexión a la base de datos (recordar la contraseña configurada al instalar MySQL).
 
 ```plaintext
-spring.datasource.username=root
-spring.datasource.password=root
+spring.datasource.username=
+spring.datasource.password=
 ```
 
 4) Una vez configurado el application.properties, correr el proyecto ejecutando los siguientes comandos en la terminal (posicionándose en la carpeta del proyecto):
