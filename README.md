@@ -1,7 +1,7 @@
 # digitalBooking_FinalProject
 Final team project on the Certified Tech Developer career by Digital House. 
 
-# ![]()![logo_1](https://drive.google.com/file/d/1C99Ju50D467YZQXnG6VfpJpu5lyauOly/view?usp=sharing)   [Digital Booking](http://digitalbooking.one), _sentite como en tu hogar_
+# ![]()![logo_1](https://s3.amazonaws.com/digitalbooking.equipo3c3/DocTecnica/logo_1.png)   [Digital Booking](http://digitalbooking.one), _sentite como en tu hogar_
 
 *Digital Booking es una empresa de alquiler de casas, departamentos, habitaciones privadas y alojamientos en general, para toda persona que desee viajar y sentirse como en su hogar*. En busca de un despegue comercial de impacto, la empresa se propuso lanzar su página web de reservas online disponible 24/7.
 
@@ -128,11 +128,11 @@ Para el **desarrollo** de este proyecto, el equipo de desarrollo basó su intera
 
 ## Base de datos
 
-![Base_de_datos](uploads/bbb91956edc14350d638ff1ce8c32f8a/Base_de_datos.jpg)
+![Base_de_datos](https://s3.amazonaws.com/digitalbooking.equipo3c3/DocTecnica/Base_de_datos.png)
 
 ## Componentes y diagramas de la aplicación
 
-![Flowchart_Template__2_](uploads/18c4b74f69215757dd7224532ae61ed7/Flowchart_Template__2_.jpg)
+![Flowchart_Template__2_](https://s3.amazonaws.com/digitalbooking.equipo3c3/DocTecnica/Flowchart_Template__2_.jpg)
 
 ## Backend
 
@@ -311,7 +311,7 @@ Para más información:
 
 #### Imagen
 
-![DigitalBooking_InfraAWS](uploads/8b2c841736abf687f9c4f3601dc91e56/DigitalBooking_InfraAWS.drawio.png)
+![DigitalBooking_InfraAWS](https://s3.amazonaws.com/digitalbooking.equipo3c3/DocTecnica/DigitalBooking_infra.png)
 
 ## Testing y calidad
 
