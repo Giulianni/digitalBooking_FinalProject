@@ -9,20 +9,14 @@ El objetivo del equipo de desarrollo es ofrecer una página amigable, accesible 
 
 ---
 
-### Metodología de trabajo
+## Metodología de trabajo
 
-## Metodología Scrum
-La metodología de trabajo ágil se definió a partir de los requerimientos del proyecto. La aplicación de Digital Booking está pensada para ser dinámica y orientada al usuario, en ese contexto, ser ágiles ya no es una opción, es una ventaja comparativa. 
-El feedback constante de la Product Owner permitió al equipo el llevar adelante un proceso iterativo eficiente, enfocando la optimización del producto en base a esos insights. De esta forma,la comunicación constante con y entre el equipo ayudó a agilizar el abordaje de los puntos de dolor y priorizar la entrega rápida de una componentes adecuados, funcionales y completos en la aplicación. 
-No obstante, el desafío estuvo precisamente en agilizar la comunicación del equipo para estar a la altura de los tiempos y lo cambios del momento. En ese camino de aprendizaje, duplicamos trabajo y perdimos avances. Si bien esto es un punto negativo del proceso, también lo capitalizamos como un gran aprendizaje que buscamos aplicar en el siguiente sprint.
-Los eventos también fueron de suma importancia para mantener una estructura de trabajo más estable que nos asegurara puntos de contacto y encuentro, necesarios para poder medir, ajustar y optimizar el avance del proceso de desarrollo. En los mismos, creemos que el rol de las PO y SM es crucial para mantener el foco en el producto y la salud del equipo. 
+### Metodología Scrum
+Respetando todas los eventos, tiempos y roles. 
+En esta practica contamos con la presencia de TLs, PO y Scrum Master mientras que en el equipo rotamos los roles de (Front End, Back End, BBDD, QA e Analista de Infraestructura). 
  
-## Asignación de roles
-La asignación de roles no escapó al proceso ágil del proyecto. En el primer sprint nos organizamos por tareas, priorizándolas por puntaje y acordando que cada integrante se auto-asigne una tarea disponible a medida que terminaba otra. De esta forma, la mayor parte del equipo pudo participar en cada área. 
-Si bien logramos cumplir con todas los requerimientos del Sprint y el Sprint goal, el planteo de épicas en el segundo Sprint nos llevó a intentar armar grupos de 2 para algunas épicas más grandes y tomar una épica pequeña individualmente. Esta experiencia fue interesante en términos de encarar un requerimiento de principio a fin, hasta completarlo. Sin embargo, los límites entre una épica y otra eran difusos y eso llevó a duplicación de trabajo, desarrollo de métodos globales que no eran funcionales a otras épicas, entre otros. También logramos cubrir los puntos básicos del Sprint, pero el nivel de bugs fue muy alto y entendimos que era necesario reorganizarnos para optimizar el trabajo del equipo en general. 
-Para el tercer Sprint implementamos la división por roles, estando dos personas en Front end, una en Back end, una en Testing y una en Infraestructura. Esta división resultó mucho más provechosa a los fines de entregar un producto funcional y reducir el número de bugs. 
-En el cuarto Sprint también se trabajó por roles, aunque el equipo fue más fluido en la práctica de reparación de bugs e implementación de requerimientos adicionales, haciéndose cargo de los mismos de principio a fin y a través de las áreas. 
-Cabe destacar que desde el primer Sprint la asignación de tareas fue responsabilidad de cada miembro del equipo, a partir de las tareas del board y los requerimientos enviados por la PO.
+#### Asignación de roles
+Al inicio rotamos entre todas las áreas cada integrante, y después cada uno se dedicó más al área que más le motivaba. 
 
 ## Duración del proyecto 
 
@@ -64,8 +58,6 @@ Para el **desarrollo** de este proyecto, el equipo de desarrollo basó su intera
   * Git
 * Simulación / Virtualización: 
   * Hibernate-h2 (Bases de datos en Backend)
-
-
 
 ## Stack tecnológico del proyecto
 * Front end: 
