@@ -1,5 +1,5 @@
 # digitalBooking_FinalProject
-Final team project on the Certified Tech Developer career by Digital House. 
+Team's final project on the Certified Tech Developer career by Digital House. 
 
 # ![]()![logo_1](https://s3.amazonaws.com/digitalbooking.equipo3c3/DocTecnica/logo_1.png)   [Digital Booking](http://digitalbooking.one), _sentite como en tu hogar_
 
